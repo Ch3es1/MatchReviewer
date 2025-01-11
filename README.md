@@ -1,5 +1,5 @@
 # MatchReviewer
- Math Reviewer/Calculator
+ Match Reviewer/Calculator
 
 What it do?
 --
