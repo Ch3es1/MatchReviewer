@@ -105,4 +105,3 @@ Example Output:
             "Damage Missed": 1455.7808219178087
         }
     }
-}
